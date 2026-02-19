@@ -1,0 +1,15 @@
+# data files
+*.csv
+*.json
+*.jsonl
+
+# python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+**/.cache/
+
+# virtual env (필요하면)
+.venv/
+venv/
+.env
